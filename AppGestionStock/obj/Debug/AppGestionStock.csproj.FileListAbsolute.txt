@@ -78,3 +78,4 @@ C:\Users\DELL\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionS
 C:\Users\DELL\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.csproj.CopyComplete
 C:\Users\DELL\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.exe
 C:\Users\DELL\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.pdb
+C:\Users\DELL\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.ApiPhpProduit.resources
